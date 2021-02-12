@@ -21,7 +21,7 @@ Your file should consist of the bot's name, and has the json format below!
 
 ```
 {
-  "bot_name": ""
-  "authors": 
-  "repository_link": ""
+  "bot_name": "",
+  "authors": 1234,
+  "repository_link": "",
 }
