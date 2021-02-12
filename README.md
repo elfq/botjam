@@ -25,7 +25,7 @@ Your file should consist of the bot's name, and has the json format below!
   "authors": 1234,
   "repository_link": ""
 }
-
+```
 ### Discord Server
 
 https://discord.gg/wsCCb5hyaS
