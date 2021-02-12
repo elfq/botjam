@@ -15,9 +15,9 @@ This is a competition similar to a game jam, you'll be presented with a topic an
 
 ## Submitting your entry
 
-To submit an entry, you'll fork this repository, and create a new folder in the `entries` folder.
+To submit an entry, you'll fork this repository, and create a new file in the `entries` folder.
 
-Your folder should consist of the bot's name, and you should create an file named `entry.json`.
+Your file should consist of the bot's name, and has the json format below!
 
 ```
 {
