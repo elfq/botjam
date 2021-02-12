@@ -21,7 +21,7 @@ Your folder should consist of the bot's name, and you should create an file name
 
 ```
 {
-  "bot_name" : "Your bot's name"
-  "authors" : "All author IDs"
-  "repository" : "Add your repository's link here!"
+  "bot_name": ""
+  "authors": 
+  "repository_link": ""
 }
